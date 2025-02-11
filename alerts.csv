@@ -1,0 +1,6 @@
+alert_id,alert_type,created_at,description,primary_transaction_ids,status
+1,Phishing Alert,2024-11-18 09:15:00,Suspected phishing activity,"101,103",OPEN
+2,Malware Detection,2024-11-17 14:30:00,Endpoint infected with malware,"104,105",CLOSED
+3,Unauthorized Access,2024-11-16 18:45:00,Multiple failed login attempts,"105,106",OPEN
+4,Data Leak Alert,2024-11-15 11:00:00,Confidential file accessed,"107,108,109",CLOSED
+5,Policy Violation,2024-11-14 10:20:00,Non-compliant software installed,110,OPEN
